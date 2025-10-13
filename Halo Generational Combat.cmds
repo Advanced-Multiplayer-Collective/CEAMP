@@ -104,8 +104,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -171,8 +171,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -200,8 +200,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -226,8 +226,8 @@ nameblamtag custom\powerups\hce_camo\hce_camo.equipment objects\multi\powerups\p
 nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\ghost
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -275,8 +275,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -304,8 +304,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -333,8 +333,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -362,8 +362,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -391,8 +391,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -441,8 +441,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -470,8 +470,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -499,8 +499,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -528,8 +528,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -554,8 +554,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -583,8 +583,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -612,8 +612,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
@@ -641,8 +641,8 @@ nameblamtag custom\vehicles\hce_ghost\hce_ghost.vehicle objects\vehicles\ghost\g
 nameblamtag custom\vehicles\hce_shade\hce_shade.vehicle objects\vehicles\shade\shade
 nameblamtag custom\vehicles\tgof_hce_banshee\hce_banshee.vehicle objects\vehicles\banshee\banshee
 nameblamtag custom\vehicles\tgof_hce_scorpion\hce_scorpion.vehicle objects\vehicles\scorpion\scorpion
-nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle custom\vehicles\tgof_hce_warthog\warthog
-nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith.vehicle
+nameblamtag custom\vehicles\tgof_hce_warthog\warthog.vehicle objects\vehicles\warthog\warthog
+nameblamtag custom\vehicles\tgof_hce_wraith\tgof_hce_wraith.vehicle objects\vehicles\wraith\wraith
 
 PortTag !UpdateMapFiles *.scnr
 Exit
