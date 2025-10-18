@@ -547,8 +547,36 @@ savetagchanges
 exit
 
 
+	echo DMR
+
+duplicatetag custom\weapons\other\tgof_h2_battle_rifle\battle_rifle.model
+nametag * custom\weapons\other\tgof_h2_battle_rifle\battle_rifle_beta
+duplicatetag custom\weapons\other\tgof_h2_battle_rifle\fp\fp.render_model
+nametag * custom\weapons\other\tgof_h2_battle_rifle\fp\fp_beta
+savetagnames
 
 
+edittag objects\weapons\rifle\dmr\dmr.weapon
+SetField Model custom\weapons\other\tgof_h2_battle_rifle\battle_rifle_beta.model
+SetField FirstPerson[0].FirstPersonModel custom\weapons\other\tgof_h2_battle_rifle\fp\fp_beta.mode
+SetField FirstPerson[0].FirstPersonAnimations custom\weapons\other\tgof_h2_battle_rifle\fp\fp.model_animation_graph
+SetField HudInterface ui\chud\battle_rifle.chud_definition
+savetagchanges
+exit
+
+EditTag custom\weapons\other\tgof_h2_battle_rifle\battle_rifle_beta.model
+setfield RenderModel custom\weapons\other\tgof_h2_battle_rifle\fp\fp_beta.mode
+savetagchanges
+exit
+
+edittag custom\weapons\other\tgof_h2_battle_rifle\fp\fp_beta.mode
+SetField Materials[5].RenderMethod null
+SetField Materials[6].RenderMethod null
+savetagchanges
+exit
+
+
+ 
 
 
 
