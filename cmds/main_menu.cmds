@@ -190,3 +190,13 @@ setfield PlayerCharacterCustomizations[1].CharacterPositionData.SettingsCameraIn
 
 savetagchanges
 exit
+
+EditTag levels\ui\mainmenu\shaders\threshold.shader
+SetField ShaderProperties[0].BlendMode Opaque
+SaveTagChanges
+Exit
+
+EditTag levels\ui\mainmenu\shaders\basis.shader
+SetField ShaderProperties[0].BlendMode Opaque
+SaveTagChanges
+Exit
