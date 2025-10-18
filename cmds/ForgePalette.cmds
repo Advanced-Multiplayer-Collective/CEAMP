@@ -3,4 +3,11 @@
 #Vehicles
 AddForgeItem "Rocket Hog" 79 custom\vehicles\tgof_hce_new_rwarthog\tgof_hce_new_rwarthog.vehicle
 AddForgeItem "Dew Hog" 79 custom\vehicles\tgof_hce_dewhog\tgof_hce_dewhog.vehicle
-
+AddForgeItem "Brute Ghost" 79 custom\vehicles\hce_ghost\brute_variant\brute_ghost.vehicle
+AddForgeItem "Schism Ghost" 79 custom\vehicles\hce_ghost\schism_variant\schism_ghost.vehicle
+AddForgeItem "Ultra Ghost" 79 custom\vehicles\hce_ghost\ultra_variant\ultra_ghost.vehicle
+AddForgeItem "Zealot Ghost" 79 custom\vehicles\hce_ghost\zealot_variant\zealot_ghost.vehicle
+AddForgeItem "Pelican" 79 custom\vehicles\tgof_hce_pelican\tgof_hce_pelican.vehicle
+AddForgeItem "Jet" 79 custom\vehicles\tgof_extin_jet\tgof_extin_jet.vehicle
+AddForgeItem "AA Wraith" 79 custom\vehicles\tgof_hce_wraith\tgof_hce_aawraith.vehicle
+AddForgeItem "Brute Banshee" 79 custom\vehicles\tgof_hce_banshee\brute_variant\brute_banshee.vehicle
