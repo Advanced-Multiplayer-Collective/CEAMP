@@ -1,7 +1,7 @@
-D:\ElDewrito\0.7.1\maps\tags.dat
-SetVariable workingdir "C:\Users\Harry Ricketts\Documents\GitHub\AMPTeam\CEAMP"
-SetVariable modsfolder "D:\ElDewrito\0.7.1\mods"
-SetVariable workshop "D:\SteamLibrary\steamapps\workshop\content\976730\2962955878"
+D:\eldewrito\eldewrito 0.7\ElDewrito\maps
+SetVariable workingdir "C:\Users\Matthew\Documents\GitHub\CEAMP"
+SetVariable modsfolder "D:\eldewrito\eldewrito 0.7\ElDewrito\mods"
+SetVariable workshop "D:\Games\steamapps\workshop\content\976730\2962955878"
 
 # echo ==Creating Mod Package...==
 CreateModPackage 1 large
