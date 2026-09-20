@@ -854,6 +854,151 @@ Edittag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc.bitmap
 importbitmap 0 "workingdir\bitmaps\cyborg\t_cyborg_mp_cc.dds"
 Exit
 
+#echo new armors
+
+edittag custom\characters\tgof_hce_chief_new\tgof_hce_chief_new.render_model
+replacerendergeometry "workingdir\models\cyborg2.dae" TriangleList
+Exit
+
+Edittag custom\characters\tgof_hce_chief_new\tgof_hce_chief_new.model 
+updatemodelregions 0
+savetagchanges
+exit
+
+SetCustomizationFromModel multiplayer\multiplayer_globals.multiplayer_globals 0 custom\characters\tgof_hce_chief_new\tgof_hce_chief_new.model 
+
+Duplicatetag objects\characters\masterchief\shaders\mp_masterchief.shader custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_helmet
+Duplicatetag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse.bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_helmet
+Duplicatetag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc.bitmap custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_helmet
+Duplicatetag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc.bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump_beta_helmet
+
+Edittag custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_helmet.shader
+SetField ShaderProperties[0].TextureConstants[0].Bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_helmet.bitmap
+SetField ShaderProperties[0].TextureConstants[2].Bitmap custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_helmet.bitmap
+SetField ShaderProperties[0].TextureConstants[3].Bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump.bitmap
+SetField ShaderProperties[0].TextureConstants[7].Bitmap shaders\default_bitmaps\bitmaps\color_black.bitmap
+SetArgument diffuse_coefficient 1
+SetArgument fresnel_color 0.32483464 0.34982187 0.41541353
+SetArgument specular_coefficient 0.25
+SaveTagChanges
+Exit
+
+Edittag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_helmet.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_head_normal.dds"
+exit
+
+Edittag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_helmet.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_head_cc.dds"
+exit
+
+Edittag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump_beta_helmet.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_n.dds"
+exit
+
+Duplicatetag objects\characters\masterchief\shaders\mp_masterchief.shader custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_torso
+Duplicatetag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse.bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_torso
+Duplicatetag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc.bitmap custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_torso
+Duplicatetag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc.bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump_beta_torso
+
+Edittag custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_torso.shader
+SetField ShaderProperties[0].TextureConstants[0].Bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_torso.bitmap
+SetField ShaderProperties[0].TextureConstants[2].Bitmap custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_torso.bitmap
+SetField ShaderProperties[0].TextureConstants[3].Bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump.bitmap
+SetField ShaderProperties[0].TextureConstants[7].Bitmap shaders\default_bitmaps\bitmaps\color_black.bitmap
+SetArgument diffuse_coefficient 1
+SetArgument fresnel_color 0.32483464 0.34982187 0.41541353
+SetArgument specular_coefficient 0.25
+SaveTagChanges
+Exit
+
+Edittag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_torso.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_torso_normal.dds"
+exit
+
+Edittag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_torso.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_torso_cc.dds"
+exit
+
+Edittag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump_beta_torso.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_n.dds"
+exit
+
+
+Duplicatetag objects\characters\masterchief\shaders\mp_masterchief.shader custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_arms
+Duplicatetag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse.bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_arms
+Duplicatetag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc.bitmap custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_arms
+Duplicatetag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc.bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump_beta_arms
+
+Edittag custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_arms.shader
+SetField ShaderProperties[0].TextureConstants[0].Bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_arms.bitmap
+SetField ShaderProperties[0].TextureConstants[2].Bitmap custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_arms.bitmap
+SetField ShaderProperties[0].TextureConstants[3].Bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump.bitmap
+SetField ShaderProperties[0].TextureConstants[7].Bitmap shaders\default_bitmaps\bitmaps\color_black.bitmap
+SetArgument diffuse_coefficient 1
+SetArgument fresnel_color 0.32483464 0.34982187 0.41541353
+SetArgument specular_coefficient 0.25
+SaveTagChanges
+Exit
+
+Edittag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_arms.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_arms_normal.dds"
+exit
+
+Edittag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_arms.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_arms_cc.dds"
+exit
+
+Edittag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump_beta_arms.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_arms_cc.dds"
+exit
+
+Duplicatetag objects\characters\masterchief\shaders\mp_masterchief.shader custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_legs
+Duplicatetag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse.bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_legs
+Duplicatetag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc.bitmap custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_legs
+Duplicatetag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc.bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump_beta_legs
+
+Edittag custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_legs.shader
+SetField ShaderProperties[0].TextureConstants[0].Bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_legs.bitmap
+SetField ShaderProperties[0].TextureConstants[2].Bitmap custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_legs.bitmap
+SetField ShaderProperties[0].TextureConstants[3].Bitmap custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump.bitmap
+SetField ShaderProperties[0].TextureConstants[7].Bitmap shaders\default_bitmaps\bitmaps\color_black.bitmap
+SetArgument diffuse_coefficient 1
+SetArgument fresnel_color 0.32483464 0.34982187 0.41541353
+SetArgument specular_coefficient 0.25
+SaveTagChanges
+Exit
+
+
+Edittag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_diffuse_beta_legs.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_legs_normal.dds"
+exit
+
+Edittag custom\characters\hce_chief\bitmaps\t_cyborg_mp_cc_beta_legs.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_legs_cc.dds"
+exit
+
+Edittag custom\characters\tgof_hce_chief_new\bitmaps\pbr\cyborg_zbump_beta_legs.bitmap
+importbitmap 0 "workingdir\bitmaps\cyborg2\cyborg_arms_cc.dds"
+exit
+
+Edittag custom\characters\tgof_hce_chief_new\tgof_hce_chief_new.render_model
+replacerendergeometry "workingdir\models\cyborg2.dae" TriangleList
+SetField Materials[1].RenderMethod objects\characters\masterchief\shaders\mc_emblem.shader_decal
+SetField Materials[4].RenderMethod custom\characters\tgof_hce_chief_new\shaders\cyborg_99_armor.shader
+SetField Materials[5].RenderMethod objects\characters\masterchief\shaders\mc_emblem.shader_decal
+SetField Materials[6].RenderMethod custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_arms.shader
+SetField Materials[7].RenderMethod objects\characters\masterchief\shaders\mc_emblem.shader_decal
+SetField Materials[8].RenderMethod custom\characters\tgof_hce_chief_new\shaders\armor_fixed.shader
+SetField Materials[9].RenderMethod custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_legs.shader
+SetField Materials[10].RenderMethod custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_helmet.shader
+SetField Materials[11].RenderMethod objects\characters\masterchief\shaders\mp_visor.shader
+SetField Materials[12].RenderMethod custom\characters\tgof_hce_chief_new\shaders\armor_fixed_beta_helmet.shader
+SetField Materials[13].RenderMethod objects\characters\masterchief\shaders\mp_visor.shader
+Savetagchanges
+exit
+
+
+
 OpenModPackage "workingdir\paks\1999_Emotes v1_5 CUSTOM.pak"
 ApplyModPackage
 ExitModPackage
@@ -911,6 +1056,44 @@ SetField FrustumNearWidth 0.2
 savetagchanges
 exit
 
+Echo Menu colors
+
+EditTag levels\ui\mainmenu\mainmenu.scenario
+SetField DefaultScreenFx levels\ui\mainmenu\sky\ui.area_screen_effect
+SaveTagChanges
+Exit
+
+Edittag levels\ui\mainmenu\sky\ui.area_screen_effect
+SetField ScreenEffects[0].ExposureBoost 0
+SetField ScreenEffects[0].Desaturation 0
+SetField ScreenEffects[0].GammaReduce 0
+SetField ScreenEffects[0].ColorFilter 1 1 1
+SetField ScreenEffects[0].Saturation 1
+Savetagchanges
+exit
+
+echo customization screen
+
+EditTag levels\ui\mainmenu\mainmenu.scenario
+SetField Bipeds[0].Position 255 255 0
+SetField Bipeds[1].Position 255 255 0
+SetField CutsceneCameraPoints[11].Position 23.757 -7.88 0.847
+SetField CutsceneCameraPoints[11].Orientation 169.11 5.0076 -0.96150005
+savetagchanges
+exit
+
+EditTag multiplayer\mod_globals.mod_globals
+SetField PlayerCharacterCustomizations[0].CharacterPositionData.RelativeBipedPosition 0.3 0.15 0.125
+SetField PlayerCharacterCustomizations[0].CharacterPositionData.RelativeBipedRotation 300
+SetField PlayerCharacterCustomizations[1].CharacterPositionData.RelativeBipedPosition 0.56 0.29 0.09
+SetField PlayerCharacterCustomizations[1].CharacterPositionData.RelativeBipedRotation 290
+SaveTagChanges
+exit
+
+EditTag levels\ui\mainmenu\mainmenu.scenario
+compilescripts "workingdir\scripts\mainmenu.hsc"
+savetagchanges
+exit
 
 RunCommands "workingdir\cmds\weaponglobals.cmds"
 
